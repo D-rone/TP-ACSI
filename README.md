@@ -3,8 +3,8 @@ Mini Project module ACSI (TP 2)
 
 ## Membres
 
-#### OUKSILI MOHAMED 
-#### GHOUAL IBRAHIM
+#### OUKSILI MOHAMED G6
+#### GHOUAL IBRAHIM G6
 
 ## Functions:
 #### Comments
